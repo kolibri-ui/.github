@@ -1,5 +1,5 @@
 # Kolibri
-Webtoolkit based on Projector Pattern
+Web UI Toolkit based on Projector Pattern
 
 Some useful links
 * [Kolibri UI Website](https://kolibri-ui.org)
